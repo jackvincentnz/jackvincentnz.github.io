@@ -124,7 +124,7 @@ Here are some tips to keep you going the right direction:
 * Seek early feedback.  
 *Ask people to review what you have and see if it makes sense. Recruit other teams, judge like individuals, the judges or mentors themselves are great assets to check your vision.*
 * Don't worry about beautiful code.  
-*This is a race. Not the time to show off your employability. Cut corners, throw in dirty hacks, laugh at how hilarious your implementation is and use it to reflect on how hard it would be to take a complete product to market.*
+*This is a race. Not the time to show off your employability. Cut corners, throw in dirty hacks, laugh at how hilarious your implementation is and use it to reflect on how hard it would be to take a customer ready product to market.*
 
 ## 6. Iterate
 
@@ -147,7 +147,7 @@ Why is your product valuable and how will it change in value into the future?
 
 All stakeholders want these two questions answered. They are trying to understand what your product is and if it is worth investing in. Are you solving a problem that makes sense to them and what trajectory is your team heading on?
 
-* What are the clear reasons for your products existance?
+* What are the clear reasons for your products existence?
 * What were you able to achieve in the 24 hours?
 * What is required to take your product to market?
 
@@ -157,17 +157,18 @@ Write down all your answers and start to make a plan for how you will present th
 
 Do not wing the presentation!
 
-Your entire 24 hours is about to be measured in a 5 minute presentation. It is imperative that you practice what you will share out loud. You are totally immersed in your product. Keep in mind your audience has no context of what you have been working on. Step back to the beginning and bring your them up to speed on why their world will change.
+Your entire 24 hours is about to be measured in a 5 minute presentation. It is imperative that you practice what you will share out loud. You are totally immersed in your product. Keep in mind your audience has no context of what you have been working on. Step back to the beginning and bring your them up to speed on how your product will change their world.
 
 Some tips to ensure a rewarding final experience:
 
-* Take the audience on journey you followed.
+* Take the audience along on your journey:
   1. Who is the customer?
   2. What is their problem?
   3. What data have you got to support this being a problem that should be solved?
-  4. What is your product?
+  4. What is your product and how will it solve the problem?
   5. Demo
   6. How will your product be measured for success?
+  7. Where will your vision take you next?
 * Use high level slides that won't distact the audience.
 * Rehearse how long you will spend on each section of your presentation.
 * Rehearse outloud multiple times.
@@ -175,8 +176,8 @@ Some tips to ensure a rewarding final experience:
 * Look at the judges.
 * Smile.
 * Leave time for questions.
-  
-Thank you for you interest in my opinions. Goodluck!
+
+Goodluck! Thank you for you interest in my opinions.
 
 -Jack.
 
