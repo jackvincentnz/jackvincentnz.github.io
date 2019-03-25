@@ -11,10 +11,10 @@
 {% assign user = site.github.owner %}
 
 {% if page.path contains '_posts' %}
-  {% assign page_title = page.title %}
+  {% assign page_title = page.title | append: " - Jack Vincent" %}
   {% assign meta_description = page.content | strip_html | strip_newlines | xml_escape | truncate: 300 %}
 {% else %}
-  {% assign page_title = user.name %}
+  {% assign page_title = 'Jack Vincent - Software Engineer' %}
   {% assign meta_description = user.bio | strip_html | strip_newlines | xml_escape | truncate: 300 %}
 {% endif %}
 
